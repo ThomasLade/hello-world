@@ -1,2 +1,3 @@
 # hello-world
-Mi first repository
+My first repository
+This is my first go at GitHub - wonder what this will turn into. 
